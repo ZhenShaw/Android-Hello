@@ -15,3 +15,7 @@
 
 
 * 其中注册登录功能由后端提供，主要使用 GoLang + PostgreSQL。
+
+### 界面截图
+![image](/img/1.png)
+![image](/img/2.png)
